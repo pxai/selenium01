@@ -1,0 +1,29 @@
+{
+  "name": "selenium01",
+  "version": "1.0.0",
+  "description": "Simple selenium samples",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxai/selenium01.git"
+  },
+  "keywords": [
+    "selenium",
+    "jasmine",
+    "protractor",
+    "angular1"
+  ],
+  "author": "Pello Altadill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxai/selenium01/issues"
+  },
+  "homepage": "https://github.com/pxai/selenium01#readme",
+  "dependencies": {
+    "jasmine": "^2.4.1",
+    "protractor": "^3.3.0"
+  }
+}
